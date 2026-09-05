@@ -1,0 +1,6 @@
+{
+  "name": "MALE UAV Piston Engine Digital Twin",
+  "description": "AI-Enabled Real-Time Digital Twin System for Health Monitoring, Fault Prediction, RUL Estimation, and Mission Reliability of Aero Piston Engines used in MALE UAVs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
